@@ -1,3 +1,3 @@
-# Reinforcement Learning: An Introduction 교재 code 해설
+# Reinforcement Learning: An Introduction in Python
 
-이 레포지터리는 Sutton과 Barto의 "Reinforcement Learning: An Introduction"에서 다루는 내용들을 코드로 해설합니다.
+This repository contains the code for the book "Reinforcement Learning: An Introduction" by Sutton and Barto. The code is written in Python.
